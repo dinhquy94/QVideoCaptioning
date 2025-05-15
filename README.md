@@ -1,7 +1,7 @@
  
-# 🎬 VidCap: End-to-End Video Captioning with Multi-Modal Feature Fusion
+# 🎬 QVidCap: End-to-End Video Captioning with Multi-Modal Feature Fusion
 
-**VidCap** is an end-to-end deep learning framework for video captioning. It generates natural language descriptions for short video clips by integrating motion, object, and context features using a multi-head attention-based architecture and a powerful language decoder.
+**QVidCap** is an end-to-end deep learning framework for video captioning. It generates natural language descriptions for short video clips by integrating motion, object, and context features using a multi-head attention-based architecture and a powerful language decoder.
 
 ---
 
